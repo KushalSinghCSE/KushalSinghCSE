@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/KushalSinghCSE?tab=repositories](https://github.com/KushalSinghCSE?tab=repositories)
+
 - 📫 How to reach me **kushalsf2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1v763k4qzppCFx2-uh31JrbnGSI8YdnVo/view](https://drive.google.com/file/d/1v763k4qzppCFx2-uh31JrbnGSI8YdnVo/view)
